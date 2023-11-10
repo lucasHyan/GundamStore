@@ -1,3 +1,4 @@
 # GundamStore
 
-Este é um programa simples em C# que simula um sistema de pedidos de uma loja.
+This is a simple C# program that simulates a store's order system.
+With this program, I was able to practice encapsulation and object-oriented programming.
